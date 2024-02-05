@@ -4,7 +4,7 @@ import datetime
 import re
 from deta import Deta
 
-DETA_KEY = 'd05otaotjls_VpB7MGhQbLKh3Tn2aH1r3dkz3WMppzfR'
+DETA_KEY = 'd05otaotjls_AwKU4fxB9G6crtd5Fm55u3uFTE3RHaK5'
 
 deta = Deta(DETA_KEY)
 
@@ -91,6 +91,15 @@ def sign_up():
 
         with btn3:
             st.form_submit_button('Sign Up')
+
+
+
+
+
+
+
+
+
 
 
 

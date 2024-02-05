@@ -45,10 +45,10 @@ def app():
             studentparph = st.text_input("Enter your Guardian's phone number")
             # if not pattern.match(m):
             #     st.warning("Please enter valid phone number.")
-            
+            studentID=studentroll[:-2]
             if st.form_submit_button("Submit"):
                 if validate_email(studentEmail):
-                    to_add = {"Name": [studentName], "Registration": [studentregistry] ,"University Roll Number":[studentuniroll],
+                    to_add = {"StudentID":[studentID],"Name": [studentName], "Registration": [studentregistry] ,"University Roll Number":[studentuniroll],
                               "College Roll Number":[studentroll],"Addmission of the student":[studentaddmission],"Gender": [studentGender],
                               "DOB":[studentdob],"Address":[studentaddress] , "phn":[studentphn],"Email": [studentEmail],
                               "Branch":[studentbrnch],"Semester":[studentsem],"Year":[studentyear],"Parent's phone number":[studentparph]}

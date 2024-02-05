@@ -88,7 +88,8 @@ def app():
                 y_axis = st.selectbox(
                     'Select y-axis column for scatter plot', teacher_data.columns)
                 chart = px.scatter(teacher_data, x=x_axis, y=y_axis)
-            st.plotly_chart(chart)
+            
+                st.plotly_chart(chart)
         else:
             st.warning("Select a valid chart type")
 

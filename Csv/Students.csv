@@ -1,6 +1,6 @@
-Registration No.,Name,Gender,Date of Birth,Address,Email,Phn No,Branch,Sem,Year,College Roll,Univ Roll,Admission Year,Admission Type,Parent Contact
-221170110106,Dibakar Banerjee,Female,12-03-2003,Dum Dum,itsyourboydibs@gmail.com,9051484336,CSE,3-rd,2023,CSE2022093,11700122066,2022,Regular,9051484363
-221170110107,Shreya Dutta ,Female,21-09-2003 ,Konnagar ,shreyadutta@gmail.com ,9054336148 ,CSE,3-rd ,2023 ,CSE2022061 ,11700122039 ,2022,Regular ,9054336184 
-221117011010,Ishita Das ,Female,15-05-2003 ,Dum Dum ,ishitadas@gmail.com ,8433690514 ,CSE,3-rd ,2023 ,CSE2022095 ,11700122063 ,2022,Regular ,8433690514
-221170110109,Rohit Majumdar ,Male,19-07-2003 ,Ashoknagar ,rohitmanju@gmail.com ,98617254633 ,CSE,3-rd ,2023 ,CSE2022091 ,11700122043 ,2022,Regular ,8617254363
-221170110101,Sumiit Kumar Dutta ,Male,16-09-2003 ,Habra ,sumitksutta@gmail.com ,8617484336 ,CSE,3-rd ,2023 ,CSE2022073 ,11700122034 ,2022,TFW ,9748825910
+StudentID,Registration,Name,Gender,Date of Birth,Address,Email,Phn No,Branch,Sem,Year,College Roll,Univ Roll,Admission Year,Admission Type,Parent Contact
+93,221170110106,Dibakar Banerjee,Female,12-03-2003,Dum Dum,itsyourboydibs@gmail.com,9051484336,CSE,3-rd,2023,CSE2022093,11700122066,2022,Regular,9051484363
+61,221170110107,Shreya Dutta ,Female,21-09-2003 ,Konnagar ,shreyadutta@gmail.com ,9054336148 ,CSE,3-rd ,2023 ,CSE2022061 ,11700122039 ,2022,Regular ,9054336184 
+95,221117011010,Ishita Das ,Female,15-05-2003 ,Dum Dum ,ishitadas@gmail.com ,8433690514 ,CSE,3-rd ,2023 ,CSE2022095 ,11700122063 ,2022,Regular ,8433690514
+91,221170110109,Rohit Majumdar ,Male,19-07-2003 ,Ashoknagar ,rohitmanju@gmail.com ,98617254633 ,CSE,3-rd ,2023 ,CSE2022091 ,11700122043 ,2022,Regular ,8617254363
+73,221170110101,Sumiit Kumar Dutta ,Male,16-09-2003 ,Habra ,sumitksutta@gmail.com ,8617484336 ,CSE,3-rd ,2023 ,CSE2022073 ,11700122034 ,2022,TFW ,9748825910
